@@ -4,7 +4,7 @@ files:
   - source: /
     destination: /opt/app/releases/app
 permissions:
-  - object: /opt/app/release/app
+  - object: /opt/app/releases/app
     owner: ec2-user
     group: ec2-user
     mode: 755
