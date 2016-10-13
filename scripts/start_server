@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /opt/app/releases/app
+#python -m SimpleHTTPServer &
